@@ -1,0 +1,7 @@
+.head-icon {
+    background: url("../../images/home/head_bar.png") no-repeat;
+    background-size: 100% auto;
+    width: 20px;
+    height: 15px;
+    display: inline-block;
+}
